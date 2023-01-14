@@ -8,4 +8,4 @@ I have created a demo-video based on this, do check it out on my channel [Mostaf
 
 </p>
 
-[![Animated-Short-Film-5-Ain-by-Blender-Animation-Studio](https://img.youtube.com/vi/https://youtu.be/38-sq6SYdg4/0.jpg)](https://www.youtube.com/watch?v=38-sq6SYdg4)
+[![Animated-Short-Film-5-Ain-by-Blender-Animation-Studio](https://img.youtube.com/vi/38-sq6SYdg4/0.jpg)](https://www.youtube.com/watch?v=38-sq6SYdg4)
